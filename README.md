@@ -1,6 +1,17 @@
-### Hi there 👋
+### Hello there 👋
 
-#### Welcome on my profile :)
+I am a Software Engineer, with experience in frontend (Vue.js / Typescript) and backend (Go) development. 
+
+I come from beautiful France 🇫🇷, but I can speak 🇬🇧, 🇪🇸 and I'm currently learning 🇩🇪 !
+
+I am also interested in :
+- UI/UX 
+- Linux
+- Chess
+- Geography
+- Running
+
+
 <!--
 **Nicolascrd/nicolascrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
