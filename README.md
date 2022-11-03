@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am a Software Engineer, with experience in frontend (Vue.js / Typescript) and backend (Go) development. 
+I am a Software Engineer, with experience in front-end (Vue.js / Typescript) and back-end (Go) development. 
 
 I come from beautiful France 🇫🇷, but I can speak 🇬🇧, 🇪🇸 and I'm currently learning 🇩🇪 !
 
